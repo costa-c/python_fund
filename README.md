@@ -6,3 +6,4 @@ Some fundamental python examples:
 4. Count even and odd numbers
 5. Magic Number
 6. Simulate count Mississipi
+7. Bubblesort demo
